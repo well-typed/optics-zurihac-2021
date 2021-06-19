@@ -3,8 +3,8 @@
 This repository contains materials to accompany the [Well-Typed](https://well-typed.com/)
 workshop at [ZuriHac 2021](https://zfoh.ch/zurihac2021/) on Optics.
 
- * Workshop will be streamed on YouTube at 14:00 CEST (13:00 BST, 08:00 ET) on
-   Saturday 19th June
+ * Workshop will be [streamed on YouTube](https://www.youtube.com/watch?v=AGjTAurqQoY)
+   at 14:00 CEST (13:00 BST, 08:00 ET) on Saturday 19th June
 
  * Discussion in the `#optics` channel on the ZuriHac Discord
 
