@@ -1,7 +1,7 @@
 # Optics in the abstract
 
-This repository contains materials to accompany the Well-Typed workshop at
-[ZuriHac 2021](https://zfoh.ch/zurihac2021/) on Optics.
+This repository contains materials to accompany the [Well-Typed](https://well-typed.com/)
+workshop at [ZuriHac 2021](https://zfoh.ch/zurihac2021/) on Optics.
 
  * Workshop will be streamed on YouTube at 14:00 CEST (13:00 BST, 08:00 ET) on
    Saturday 19th June
@@ -9,6 +9,10 @@ This repository contains materials to accompany the Well-Typed workshop at
  * Discussion in the `#optics` channel on the ZuriHac Discord
 
  * [Optics on Hackage](https://hackage.haskell.org/package/optics)
+
+ * You may wish to install `optics-0.4` so you can experiment in GHCi (any of
+   GHC 8.2 or later should work). The `exercises/` directory contains a `.cabal`
+   package that can be loaded with `cabal repl`.
 
 
 ## Abstract
